@@ -1,2 +1,2 @@
 # OpenCV_Tutorials
-This repository comprises of some real-world projects to be built with C++ and Open_CV. Practical Implementation of all Advanced Concepts learnt in Open_CV.
+This repository contains real-world projects developed using C++ and OpenCV, showcasing the practical implementation of advanced concepts learned in OpenCV. C++ is an ideal language for building real-world projects and products, and this repository includes an introduction to OpenCV coding practices, along with various projects designed to enhance my understanding and expertise in the field.
